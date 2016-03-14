@@ -1,0 +1,4 @@
+chat.freenode.net:6667
+FWM
+AgentMulder
+Fox Mulder
